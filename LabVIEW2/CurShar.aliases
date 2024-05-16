@@ -1,0 +1,9 @@
+[BESS]
+BESS = "172.22.11.18"
+
+[My Computer]
+My Computer = "192.168.0.14"
+
+[WIND]
+WIND = "172.22.11.10"
+
