@@ -1,6 +1,6 @@
 
 <h2 align="center" style=>
-Programs of the paper "Controller hardware in the loop platform for evaluating Cur-rent-Sharing and Hot-Swap in Microgrids"
+Programs of the paper "Controller hardware in the loop platform for evaluating Current-Sharing and Hot-Swap in Microgrids"
 </h2>
 <p class="margen" align="justify">
 The PV.xlsx contains the addresses and normalized power values to initialize the LUT that emulates the photovoltaic panel.
