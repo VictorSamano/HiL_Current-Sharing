@@ -1,8 +1,4 @@
-<style>
-    margen{
-        margin-top:50px;
-    }
-</style>
+
 <h2 align="center" style=>
 Programs of the paper "Controller hardware in the loop platform for evaluating Cur-rent-Sharing and Hot-Swap in Microgrids"
 </h2>
